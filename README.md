@@ -17,7 +17,6 @@ https://www.npmjs.com/package/react-vertical-timeline-component<br>
 +Hostinger: to deploy the portfolio public<br>
 
 ### Screenshots from mu Portfolio outcome
-
 <img width="1097" alt="Screenshot 2024-12-01 at 3 38 00 PM" src="https://github.com/user-attachments/assets/e11b9691-da92-407e-949b-a1807ec2a344"> <br>
 Super Accessible to reach out to me!
 
@@ -31,3 +30,6 @@ Try to press and check about me! :boom: <br>
 <img width="1453" alt="Screenshot 2024-12-04 at 12 10 07 AM" src="https://github.com/user-attachments/assets/77fa2fee-5887-4c3f-9f36-a571f14fb62e">
 <img width="1552" alt="Screenshot 2024-12-04 at 12 10 15 AM" src="https://github.com/user-attachments/assets/d83fb500-8636-4f8e-bca8-adcbdc2c59c2">
 <img width="1559" alt="Screenshot 2024-12-04 at 12 10 25 AM" src="https://github.com/user-attachments/assets/77860b30-72cd-4fe9-9f96-71343fb46b9c">
+
+See you there!:love_letter: <br>
+https://lightslategrey-dragonfly-846909.hostingersite.com/ 
